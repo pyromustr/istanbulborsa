@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="rgba(9, 132, 227, 0.1)" />
+  
+  <!-- Form outline -->
+  <rect x="25" y="20" width="50" height="60" rx="5" fill="white" stroke="#0984E3" stroke-width="2" />
+  
+  <!-- Form header -->
+  <rect x="25" y="20" width="50" height="10" rx="5" fill="#0984E3" />
+  <text x="50" y="27.5" font-family="Arial" font-size="6" text-anchor="middle" fill="white">CREATE ACCOUNT</text>
+  
+  <!-- Form fields -->
+  <rect x="30" y="35" width="40" height="8" rx="2" fill="#F2F2F2" />
+  <text x="35" y="40" font-family="Arial" font-size="4" fill="#636E72">Email</text>
+  
+  <rect x="30" y="48" width="40" height="8" rx="2" fill="#F2F2F2" />
+  <text x="35" y="53" font-family="Arial" font-size="4" fill="#636E72">Password</text>
+  
+  <rect x="30" y="61" width="40" height="8" rx="2" fill="#F2F2F2" />
+  <text x="35" y="66" font-family="Arial" font-size="4" fill="#636E72">Confirm Password</text>
+  
+  <!-- Submit button -->
+  <rect x="30" y="75" width="40" height="8" rx="4" fill="#00B894" />
+  <text x="50" y="80" font-family="Arial" font-size="5" text-anchor="middle" fill="white">SIGN UP</text>
+  
+  <!-- User icon -->
+  <circle cx="75" cy="15" r="8" fill="#00B894" />
+  <circle cx="75" cy="12" r="3" fill="white" />
+  <path d="M69 19 Q75 25 81 19" fill="white" />
+  
+  <!-- Decorative elements -->
+  <circle cx="15" cy="30" r="3" fill="#0984E3" />
+  <circle cx="15" cy="40" r="3" fill="#00B894" />
+  <circle cx="15" cy="50" r="3" fill="#0984E3" />
+  <circle cx="15" cy="60" r="3" fill="#00B894" />
+  <circle cx="15" cy="70" r="3" fill="#0984E3" />
+  
+  <circle cx="85" cy="30" r="3" fill="#00B894" />
+  <circle cx="85" cy="40" r="3" fill="#0984E3" />
+  <circle cx="85" cy="50" r="3" fill="#00B894" />
+  <circle cx="85" cy="60" r="3" fill="#0984E3" />
+  <circle cx="85" cy="70" r="3" fill="#00B894" />
+</svg>

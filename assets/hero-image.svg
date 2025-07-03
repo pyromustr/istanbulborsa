@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+  <!-- Background shapes -->
+  <rect x="150" y="50" width="300" height="300" rx="20" fill="#F2F2F2" />
+  
+  <!-- Stylized chart -->
+  <path d="M170 250 L200 220 L230 240 L260 180 L290 190 L320 150 L350 130 L380 170 L410 140" stroke="#0984E3" stroke-width="3" fill="none" />
+  <circle cx="200" cy="220" r="4" fill="#0984E3" />
+  <circle cx="230" cy="240" r="4" fill="#0984E3" />
+  <circle cx="260" cy="180" r="4" fill="#0984E3" />
+  <circle cx="290" cy="190" r="4" fill="#0984E3" />
+  <circle cx="320" cy="150" r="4" fill="#0984E3" />
+  <circle cx="350" cy="130" r="4" fill="#0984E3" />
+  <circle cx="380" cy="170" r="4" fill="#0984E3" />
+  <circle cx="410" cy="140" r="4" fill="#0984E3" />
+  
+  <!-- Stylized candle chart -->
+  <rect x="190" y="270" width="10" height="30" fill="#00B894" />
+  <line x1="195" y1="265" x2="195" y2="270" stroke="#00B894" stroke-width="2" />
+  <line x1="195" y1="300" x2="195" y2="305" stroke="#00B894" stroke-width="2" />
+  
+  <rect x="210" y="280" width="10" height="20" fill="#D63031" />
+  <line x1="215" y1="275" x2="215" y2="280" stroke="#D63031" stroke-width="2" />
+  <line x1="215" y1="300" x2="215" y2="310" stroke="#D63031" stroke-width="2" />
+  
+  <rect x="230" y="275" width="10" height="25" fill="#00B894" />
+  <line x1="235" y1="270" x2="235" y2="275" stroke="#00B894" stroke-width="2" />
+  <line x1="235" y1="300" x2="235" y2="302" stroke="#00B894" stroke-width="2" />
+  
+  <rect x="250" y="285" width="10" height="15" fill="#D63031" />
+  <line x1="255" y1="280" x2="255" y2="285" stroke="#D63031" stroke-width="2" />
+  <line x1="255" y1="300" x2="255" y2="308" stroke="#D63031" stroke-width="2" />
+  
+  <rect x="270" y="270" width="10" height="30" fill="#00B894" />
+  <line x1="275" y1="265" x2="275" y2="270" stroke="#00B894" stroke-width="2" />
+  <line x1="275" y1="300" x2="275" y2="304" stroke="#00B894" stroke-width="2" />
+  
+  <!-- Bitcoin icon -->
+  <circle cx="100" cy="150" r="40" fill="#F7931A" />
+  <path d="M115 140 C115 135 110 132.5 106 132 L106 122 L101 122 L101 132 L97 132 L97 122 L92 122 L92 132 C80 132 80 142 87 145 C81 148 80 158 92 158 L92 168 L97 168 L97 158 L101 158 L101 168 L106 168 L106 158 C117 158 120 150 115 145 C119 143 121 137 115 140 Z M92 137 L101 137 C105 137 106 143 101 143 L92 143 Z M106 153 L96 153 C91 153 90 147 96 147 L106 147 Z" fill="white" />
+  
+  <!-- Ethereum icon -->
+  <circle cx="100" cy="250" r="40" fill="#627EEA" />
+  <path d="M100 220 L100 265 L120 245 Z" fill="white" />
+  <path d="M100 220 L100 265 L80 245 Z" fill="white" opacity="0.6" />
+  <path d="M100 270 L100 280 L120 250 Z" fill="white" />
+  <path d="M100 270 L100 280 L80 250 Z" fill="white" opacity="0.6" />
+  
+  <!-- Mobile device frame -->
+  <rect x="50" y="70" width="120" height="240" rx="10" fill="#2D3436" />
+  <rect x="60" y="90" width="100" height="180" rx="2" fill="white" />
+  <circle cx="110" cy="280" r="10" fill="#DFE6E9" />
+  <rect x="90" y="80" width="40" height="5" rx="2" fill="#DFE6E9" />
+  
+  <!-- Screen content -->
+  <rect x="70" y="100" width="80" height="15" rx="2" fill="#F2F2F2" />
+  <rect x="70" y="120" width="40" height="8" rx="2" fill="#0984E3" />
+  <rect x="70" y="135" width="80" height="8" rx="2" fill="#DFE6E9" />
+  <rect x="70" y="150" width="80" height="8" rx="2" fill="#DFE6E9" />
+  <rect x="70" y="165" width="80" height="8" rx="2" fill="#DFE6E9" />
+  <rect x="70" y="180" width="80" height="1" rx="0.5" fill="#DFE6E9" />
+  
+  <rect x="70" y="190" width="30" height="8" rx="2" fill="#636E72" />
+  <rect x="70" y="205" width="80" height="8" rx="2" fill="#DFE6E9" />
+  <rect x="70" y="220" width="80" height="8" rx="2" fill="#DFE6E9" />
+  <rect x="70" y="235" width="80" height="15" rx="4" fill="#00B894" />
+  
+  <!-- Abstract trading elements -->
+  <rect x="300" y="70" width="150" height="80" rx="10" fill="white" stroke="#DFE6E9" stroke-width="2" />
+  <text x="315" y="95" font-family="Arial" font-size="14" fill="#2D3436">Bitcoin (BTC)</text>
+  <text x="315" y="115" font-family="Arial" font-size="18" font-weight="bold" fill="#2D3436">$42,850.75</text>
+  <rect x="315" y="125" width="50" height="15" rx="4" fill="rgba(0, 184, 148, 0.1)" />
+  <text x="325" y="137" font-family="Arial" font-size="10" fill="#00B894">+2.34%</text>
+  
+  <!-- Decorative circuits -->
+  <path d="M430 220 L470 220 L470 260 L450 260" stroke="#DFE6E9" stroke-width="2" fill="none" />
+  <path d="M440 240 L460 240" stroke="#DFE6E9" stroke-width="2" fill="none" />
+  <circle cx="430" cy="220" r="4" fill="#0984E3" />
+  <circle cx="450" cy="260" r="4" fill="#0984E3" />
+  <circle cx="440" cy="240" r="4" fill="#00B894" />
+  <circle cx="460" cy="240" r="4" fill="#00B894" />
+  
+  <path d="M350 300 L390 300 L390 340 L430 340" stroke="#DFE6E9" stroke-width="2" fill="none" />
+  <path d="M390 320 L410 320" stroke="#DFE6E9" stroke-width="2" fill="none" />
+  <circle cx="350" cy="300" r="4" fill="#0984E3" />
+  <circle cx="430" cy="340" r="4" fill="#0984E3" />
+  <circle cx="390" cy="320" r="4" fill="#00B894" />
+  <circle cx="410" cy="320" r="4" fill="#00B894" />
+</svg>

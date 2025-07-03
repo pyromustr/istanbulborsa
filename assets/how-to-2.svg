@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="rgba(9, 132, 227, 0.1)" />
+  
+  <!-- Wallet outline -->
+  <rect x="20" y="35" width="60" height="40" rx="5" fill="white" stroke="#0984E3" stroke-width="2" />
+  <rect x="20" y="35" width="50" height="40" rx="5" fill="white" stroke="#0984E3" stroke-width="2" />
+  <path d="M70 45 L80 45 L80 65 L70 65" fill="white" stroke="#0984E3" stroke-width="2" />
+  
+  <!-- Lock mechanism -->
+  <circle cx="75" cy="55" r="4" fill="#00B894" />
+  <rect x="74" y="54" width="2" height="2" fill="white" />
+  
+  <!-- Money elements -->
+  <rect x="30" y="45" width="30" height="20" rx="2" fill="#00B894" opacity="0.3" />
+  <circle cx="45" cy="55" r="8" fill="#00B894" />
+  <text x="45" y="57.5" font-family="Arial" font-size="8" text-anchor="middle" font-weight="bold" fill="white">$</text>
+  
+  <!-- Credit card -->
+  <rect x="25" y="25" width="35" height="20" rx="3" fill="#2D3436" stroke="#0984E3" stroke-width="1" />
+  <rect x="25" y="30" width="35" height="5" fill="#0984E3" />
+  <rect x="30" y="38" width="20" height="3" fill="#636E72" />
+  
+  <!-- Bitcoin -->
+  <circle cx="70" cy="30" r="10" fill="#F7931A" />
+  <text x="70" y="33" font-family="Arial" font-size="10" text-anchor="middle" font-weight="bold" fill="white">₿</text>
+  
+  <!-- Ethereum -->
+  <circle cx="70" cy="80" r="10" fill="#627EEA" />
+  <text x="70" y="83" font-family="Arial" font-size="10" text-anchor="middle" font-weight="bold" fill="white">Ξ</text>
+  
+  <!-- Arrows -->
+  <path d="M25 80 L35 80 L30 85 L25 80" fill="#00B894" />
+  <path d="M40 80 L50 80 L45 85 L40 80" fill="#00B894" />
+  <path d="M55 80 L65 80 L60 85 L55 80" fill="#00B894" />
+</svg>

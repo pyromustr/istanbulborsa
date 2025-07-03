@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="rgba(9, 132, 227, 0.1)" />
+  <circle cx="50" cy="50" r="35" fill="white" stroke="#0984E3" stroke-width="2" />
+  
+  <!-- Monitor frame -->
+  <rect x="25" y="30" width="50" height="35" rx="2" fill="#0984E3" />
+  <rect x="30" y="35" width="40" height="25" fill="white" />
+  <rect x="40" y="65" width="20" height="5" fill="#0984E3" />
+  <rect x="35" y="70" width="30" height="2" fill="#0984E3" />
+  
+  <!-- Chart elements -->
+  <line x1="35" y1="45" x2="65" y2="45" stroke="#DFE6E9" stroke-width="1" />
+  <line x1="35" y1="50" x2="65" y2="50" stroke="#DFE6E9" stroke-width="1" />
+  <line x1="35" y1="55" x2="65" y2="55" stroke="#DFE6E9" stroke-width="1" />
+  
+  <path d="M35 55 L40 50 L45 52 L50 45 L55 48 L60 40 L65 42" stroke="#00B894" stroke-width="2" fill="none" />
+  <circle cx="40" cy="50" r="2" fill="#00B894" />
+  <circle cx="50" cy="45" r="2" fill="#00B894" />
+  <circle cx="60" cy="40" r="2" fill="#00B894" />
+  
+  <!-- User interface elements -->
+  <circle cx="15" cy="25" r="3" fill="#00B894" />
+  <circle cx="85" cy="25" r="3" fill="#00B894" />
+  <circle cx="15" cy="75" r="3" fill="#00B894" />
+  <circle cx="85" cy="75" r="3" fill="#00B894" />
+  
+  <rect x="70" y="35" width="10" height="2" rx="1" fill="#00B894" />
+  <rect x="70" y="40" width="10" height="2" rx="1" fill="#00B894" />
+  <rect x="70" y="45" width="10" height="2" rx="1" fill="#00B894" />
+  <rect x="70" y="50" width="10" height="2" rx="1" fill="#00B894" />
+  
+  <rect x="15" y="35" width="5" height="2" rx="1" fill="#00B894" />
+  <rect x="15" y="40" width="5" height="2" rx="1" fill="#00B894" />
+  <rect x="15" y="45" width="5" height="2" rx="1" fill="#00B894" />
+  <rect x="15" y="50" width="5" height="2" rx="1" fill="#00B894" />
+</svg>

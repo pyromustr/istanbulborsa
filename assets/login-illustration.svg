@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <circle cx="200" cy="200" r="180" fill="rgba(9, 132, 227, 0.1)" />
+  
+  <!-- Device frame -->
+  <rect x="120" y="60" width="160" height="280" rx="10" fill="#2D3436" />
+  <rect x="128" y="80" width="144" height="230" rx="2" fill="white" />
+  <circle cx="200" cy="330" r="12" fill="#DFE6E9" />
+  <rect x="180" y="70" width="40" height="5" rx="2" fill="#DFE6E9" />
+  
+  <!-- Login form on screen -->
+  <rect x="148" y="100" width="104" height="20" rx="3" fill="#0984E3" />
+  <text x="200" y="115" font-family="Arial" font-size="10" text-anchor="middle" fill="white">WELCOME BACK</text>
+  
+  <rect x="158" y="140" width="84" height="20" rx="3" fill="#F2F2F2" />
+  <text x="170" y="155" font-family="Arial" font-size="8" fill="#636E72">Username</text>
+  
+  <rect x="158" y="170" width="84" height="20" rx="3" fill="#F2F2F2" />
+  <text x="170" y="185" font-family="Arial" font-size="8" fill="#636E72">Password</text>
+  
+  <rect x="158" y="210" width="84" height="20" rx="10" fill="#00B894" />
+  <text x="200" y="225" font-family="Arial" font-size="10" text-anchor="middle" fill="white">LOGIN</text>
+  
+  <line x1="158" y1="250" x2="242" y2="250" stroke="#DFE6E9" stroke-width="1" />
+  <text x="200" y="260" font-family="Arial" font-size="6" text-anchor="middle" fill="#636E72">or login with</text>
+  
+  <circle cx="180" cy="275" r="10" fill="#E74C3C" />
+  <text x="180" y="278" font-family="Arial" font-size="8" text-anchor="middle" fill="white">G</text>
+  
+  <circle cx="220" cy="275" r="10" fill="#3498DB" />
+  <text x="220" y="278" font-family="Arial" font-size="8" text-anchor="middle" fill="white">f</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="90" cy="130" r="20" fill="#0984E3" opacity="0.5" />
+  <circle cx="310" cy="130" r="20" fill="#0984E3" opacity="0.5" />
+  <circle cx="90" cy="270" r="20" fill="#00B894" opacity="0.5" />
+  <circle cx="310" cy="270" r="20" fill="#00B894" opacity="0.5" />
+  
+  <!-- Security elements -->
+  <circle cx="50" cy="180" r="25" fill="#0984E3" opacity="0.3" />
+  <rect x="40" y="170" width="20" height="25" rx="3" fill="#0984E3" />
+  <path d="M40 170 L40 160 C40 155 45 150 50 150 C55 150 60 155 60 160 L60 170" stroke="#0984E3" stroke-width="2" fill="none" />
+  
+  <circle cx="350" cy="180" r="25" fill="#00B894" opacity="0.3" />
+  <path d="M340 175 L350 185 L360 165" stroke="#00B894" stroke-width="2" fill="none" />
+  
+  <!-- Blockchain elements -->
+  <rect x="40" cy="100" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <rect x="90" cy="100" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <line x1="70" y1="110" x2="90" y2="110" stroke="#2D3436" opacity="0.2" stroke-width="2" />
+  
+  <rect x="280" cy="100" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <rect x="330" cy="100" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <line x1="310" y1="110" x2="330" y2="110" stroke="#2D3436" opacity="0.2" stroke-width="2" />
+  
+  <rect x="40" cy="300" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <rect x="90" cy="300" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <line x1="70" y1="310" x2="90" y2="310" stroke="#2D3436" opacity="0.2" stroke-width="2" />
+  
+  <rect x="280" cy="300" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <rect x="330" cy="300" width="30" height="20" rx="3" fill="#2D3436" opacity="0.2" />
+  <line x1="310" y1="310" x2="330" y2="310" stroke="#2D3436" opacity="0.2" stroke-width="2" />
+</svg>

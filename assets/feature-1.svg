@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="rgba(9, 132, 227, 0.1)" />
+  <circle cx="50" cy="50" r="35" fill="white" stroke="#0984E3" stroke-width="2" />
+  
+  <!-- Padlock body -->
+  <rect x="35" y="45" width="30" height="25" rx="3" fill="#0984E3" />
+  
+  <!-- Padlock shackle -->
+  <path d="M40 45 L40 35 C40 30 45 25 50 25 C55 25 60 30 60 35 L60 45" stroke="#0984E3" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  <!-- Keyhole -->
+  <circle cx="50" cy="55" r="5" fill="white" />
+  <rect x="48" y="55" width="4" height="7" fill="white" />
+  
+  <!-- Shield elements -->
+  <path d="M70 25 L75 30 L80 25" stroke="#00B894" stroke-width="2" fill="none" stroke-linecap="round" />
+  <path d="M20 25 L25 30 L30 25" stroke="#00B894" stroke-width="2" fill="none" stroke-linecap="round" />
+  <path d="M50 10 L55 15 L50 20 L45 15 Z" fill="#00B894" />
+  <path d="M50 80 L55 75 L50 70 L45 75 Z" fill="#00B894" />
+  
+  <!-- Security scan lines -->
+  <line x1="20" y1="50" x2="30" y2="50" stroke="#00B894" stroke-width="2" stroke-dasharray="2,2" />
+  <line x1="70" y1="50" x2="80" y2="50" stroke="#00B894" stroke-width="2" stroke-dasharray="2,2" />
+</svg>
